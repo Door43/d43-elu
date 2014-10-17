@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[elu:home|Door43 (elu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-elu|d43-elu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-elu/archive/master.zip|d43-elu.zip]]
+
+**Recent Changes**
+{{changes>ns = elu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/elu|Ethnologue data]]
+
